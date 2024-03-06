@@ -1,5 +1,6 @@
-# You can change this base image to anything else
+# You can change this base image to anything else 
 # But make sure to use the correct version of Java
+# my project docker file
 FROM adoptopenjdk/openjdk11:alpine-jre
 
 # Simply the artifact path
